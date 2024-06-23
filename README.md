@@ -1,5 +1,4 @@
-# aed1-rafael-devantier-neuenfeldt
-pasta para trabalhos da disciplina
+
 # RAFAEL DEVANTIER NEUENFELDT
 # EXERCICIO PRATICO 1
 ## LEMONADE CHANGE
